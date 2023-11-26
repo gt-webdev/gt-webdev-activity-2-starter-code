@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      <p>TODO 2</p>
+      <h1>TODO LIST APPLICATION</h1>
       <p>Raw data from server: {JSON.stringify(tasks)}</p>
       <p>Example way to parse data from server:</p>
       <div>
